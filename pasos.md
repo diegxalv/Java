@@ -5,7 +5,7 @@
 <body>
 <h1>Pasos para instalar Java 11 en Linux</h1>
 <h2>1. Crear cuenta de Oracle</h2>
-<p>Nos redigirimos al siguiente <a href="https://profile.oracle.com/myprofile/account/create-account.jspx">enlace </a>y nos creamos la cuenta e iniciamos sesión.</p>
+<p>Nos redigirimos al siguiente <a href="https://profile.oracle.com/myprofile/account/create-account.jspx">enlace </a>, nos creamos la cuenta e iniciamos sesión.</p>
 <h2>2. Descargar Oracle</h2>
 <p>Vamos a la siguiente página <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"></a>y descargamos Oracle JDK 11 en formato .tar.gz. Ha de ser una versión similar a la que encontraremos en <a href="https://launchpad.net/~linuxuprising/+archive/ubuntu/java/+packages">oracle-java11-installer-local package</a>.</p>
 <h2>3. Crear directorio</h2>
