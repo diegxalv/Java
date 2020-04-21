@@ -31,5 +31,14 @@ Introduciremos los siguientes comandos para que el sistema reconozca java:
 <code>sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/jdk/jdk1.8.0_251/bin/javac" 1500</code>
 <br>
 <code>sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/jdk/jdk1.8.0_251/bin/javaws" 1500</code>
+<br>
+Con el comando <code>update-alternatives --config java</code>, podemos ver una tabla como la siguiente:
+<br>
+
+  Selección   Ruta                            Prioridad  Estado
+------------------------------------------------------------
+* 0            /usr/jdk/jdk1.8.0_251/bin/java   1500      modo automático
+  1            /usr/jdk/jdk1.8.0_251/bin/java   1500      modo manual
+  2            /usr/jre/jre1.8.0_251/bin/java   1500      modo manual
 
 </p>
