@@ -59,7 +59,7 @@ Aplicamos los cambios ejecutando el comando
 Verificamos que ha quedado reconocida la ruta con 
 <code>echo $JAVA_HOME</code>
 <br>
-Finalizamos la instalación viendo que al ejecutar <code>java --version</code>, obtenemos lo siguiente:
+Finalizamos la instalación viendo que al ejecutar <code>java -version</code>, obtenemos lo siguiente:
 <pre>
 java version "1.8.0_251"
 Java(TM) SE Runtime Environment (build 1.8.0_251-b08)
